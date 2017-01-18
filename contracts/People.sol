@@ -1,0 +1,8 @@
+contract People {
+
+  struct Person {
+    
+  }
+
+
+}
